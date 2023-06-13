@@ -15,7 +15,7 @@ print(my_string.strip())
 my_string = "Este es un nuevo texto"
 
 #Indexing and slicing
-print(my_string[0])
+print(my_string[0])git
 print(my_string[3])
 print(my_string[6])
 
