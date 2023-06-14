@@ -7,7 +7,6 @@ def show_students():
 def add_student(student):
     students.append(student)
 
-def remove_student(student)
 
 def remove_student(student):
     try:
@@ -32,7 +31,7 @@ while   True:
     elif choice == 3:
         student = input("Ingresar student a eliminar: ")
         remove_student (student )
-        elif choice = 4:
+    elif choice == 4:
         break 
     else:
         print('Incorrect Option')
